@@ -7,6 +7,8 @@ This module introduced me to the foundational concepts of Docker, containers, im
 By the end of the module, I built a fully containerised web app with a persistent Redis counter and learned how to orchestrate both services using Docker Compose.
 
 🧠 What I Learned
+
+
 🔹 1. Understanding Containers
 
 What containers are and how they differ from virtual machines
